@@ -20,7 +20,7 @@ body {
 
 /* Write all remaining styles here */
 
-.wrapper, h1 {
+h1 {
   font-family: 'Libre Baskerville', serif;
   font-size: 200px;
   padding: 45 ;
