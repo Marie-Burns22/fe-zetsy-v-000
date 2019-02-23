@@ -66,9 +66,11 @@ p {
 #press img {
   border: 5px #ccc solid;
   padding: 1px;
-  
 }
 
+#press img:hover {
+  border: rgb(152,172,165)
+}
 
 footer {
   text-align: right;
