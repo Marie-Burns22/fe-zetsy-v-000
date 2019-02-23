@@ -42,5 +42,9 @@ h2 {
 p {
   font-family: 'Times New Roman', serif;
   font-size: 1em;
-  
+}
+
+img {
+  border: 10px;
+  color: rgb(135,157,149);
 }
