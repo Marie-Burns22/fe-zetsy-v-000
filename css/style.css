@@ -46,6 +46,6 @@ p {
 
 img {
   border-style: solid;
-  border: 10px;
+  border-width: 10px;
   border-color: rgb(135,157,149);
 }
