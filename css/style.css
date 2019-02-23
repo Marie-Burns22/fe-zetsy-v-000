@@ -69,7 +69,7 @@ p {
 }
 
 #press img:hover {
-  border: rgb(152,172,165)
+  border-color: rgb(152,172,165)
 }
 
 footer {
