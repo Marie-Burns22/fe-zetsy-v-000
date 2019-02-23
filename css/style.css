@@ -46,10 +46,8 @@ p {
   margin: 0 0 20px 0;
 }
 
-p .small {
+.small {
   font-size: .8em;
-  margin: 0 0 20px 0;
-  display: block;
 }
 
 #featured img {
