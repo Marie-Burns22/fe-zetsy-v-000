@@ -35,14 +35,12 @@ h1 {
 }
 
 h2 {
-  font-family: 'Times New Roman', serif;
   font-size: 2em;
   font-weight: bold;
   color: rgb(111, 127, 122)
 }
 
 p {
-  font-family: 'Times New Roman', serif;
   font-size: 1em;
   color: #555;
   margin: 0 0 20px 0;
