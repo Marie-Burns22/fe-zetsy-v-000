@@ -48,7 +48,8 @@ p {
 
 p .small {
   font-size: .85;
-  float: right;
+  text-align: right;
+  display: block;
 }
 
 #featured img {
